@@ -33,7 +33,7 @@ function draw() {
 //Uncomment the correct line to make the background move to create a forward moving effect for the boat.
   //sea.velocityY = -3;
   //sea.x = -3;
-  //sea.velocityX = -3;
+  sea.velocityX = -3;
   //sea.velocityX = 3;
   
 
